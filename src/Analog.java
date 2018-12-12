@@ -1,4 +1,4 @@
-package javagpio.galileo;
+package javagpio.galileogen2;
 
 public enum Analog implements Pin {
     A0(48),

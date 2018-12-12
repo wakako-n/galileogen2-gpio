@@ -1,4 +1,4 @@
-package javagpio.galileo;
+package javagpio.galileogen2;
 
 public enum Digital implements Pin {
     RX(11),

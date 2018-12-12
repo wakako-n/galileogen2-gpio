@@ -1,4 +1,4 @@
-package javagpio.galileo;
+package javagpio.galileogen2;
 
 public interface Pin {
     public static enum Direction {

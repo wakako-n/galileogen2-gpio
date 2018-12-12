@@ -1,4 +1,4 @@
-package javagpio.galileo;
+package javagpio.galileogen2;
 
 public enum GalileoPin implements Pin {
     GPIO_0(0),

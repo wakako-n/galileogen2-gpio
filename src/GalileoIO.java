@@ -1,4 +1,4 @@
-package javagpio.galileo;
+package javagpio.galileogen2;
 
 import java.io.BufferedReader;
 import java.io.File;
